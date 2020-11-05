@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 1.5cm;
+}
+
+h2{
+    font-family: 'Tahoma';
+}
+
+body{
+    background-image: "images/fondo_Sensual2.jpg";
+    background-size: 500% 500%;
+}
+
+a{
+    font-family: 'Franklin Gothic Medium';
+}
+
+p{
+    text-align: center;
+    width:75% 
+}
+
+.carousel-inner img {
+    width: 600px;
+    height: 500;
+}
+
+.carousel-inner{
+ height: 250px;
+ width: 425px;
+}
